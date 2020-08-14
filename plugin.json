@@ -1,0 +1,9 @@
+{
+  "name": "IITC plugin: CopyGPS",
+  "id": "iitc_plugin_CopyGPS",
+  "category": "Portal Info",
+  "description": "Copy portal position",
+  "author": "Hevne",
+  "entry": "src/Main.ts",
+  "minimize": false
+}
